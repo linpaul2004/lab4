@@ -1,0 +1,12 @@
+A.
+00000000004004b4 T _Z7averagePdRd
+00000000004004e2 T _Z7averageif
+
+B.
+1 8
+4 8
+4 8
+8 8
+
+Since that the second number is the size of a pointer, whatever the pointer points to, its size is always 8 bytes.
+
